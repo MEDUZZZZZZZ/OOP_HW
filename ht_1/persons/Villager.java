@@ -26,6 +26,7 @@ public class Villager extends Melee_unit {
     /** Спускает собак, которые игнорируют броню, если собак не осталось, атакует сам*/
     public void let_the_dogs_out(Dummy target){
         if (this.dogs >= 1 && this.fury == this.max_fury){
+            this.fury = 0;
             int damage = dogs * 2;
             target.take_dmg(damage);
         }

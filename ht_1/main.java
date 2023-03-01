@@ -18,5 +18,5 @@ public class main {
         System.out.println(char_6.getInfo());
         Villager char_7 = new Villager("Magni", 7);
         System.out.println(char_7.getInfo());
-        }
+    }
 }
