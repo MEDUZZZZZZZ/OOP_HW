@@ -1,4 +1,4 @@
-package OOP_HW.final_work.Core.ViewC;
+package OOP_HW.final_work.Core.View;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;

@@ -5,8 +5,8 @@ import java.util.ArrayList;
 
 
 public class Army {
-    private String[] nickname = {"Arthas", "Anduin", "Fenris", "Kilrogg", "Khadgar", "Ner’zhul", "Grommash", "Durotan",
-                                 "Tyrande", "Rexxar", "Gul’dan", "Malfurion", "Jaina", "Sylvanas", "Garrosh", "Vol’jin",
+    private String[] nickname = {"Arthas", "Anduin", "Fenris", "Kilrogg", "Khadgar", "Nerzhul", "Grommash", "Durotan",
+                                 "Tyrande", "Rexxar", "Guldan", "Malfurion", "Jaina", "Sylvanas", "Garrosh", "Voljin",
                                  "Thrall", "Illidan", "Chen", "Bolvar", "Katrana", "Shaohao", "Maraad", "Akama", "Hakkar",
                                  "Velen", " Archimonde", "Malygos", "Nozdormu", "Muradin", "Magni", "Garr", "Valeera",
                                  "Alleria", "Maiev", "Mordent", " Varo'then", "Cenarius", "Malorne", "Niuzao", "Y'shaarj",

@@ -1,9 +1,8 @@
-package OOP_HW.final_work.Core.App;
+package OOP_HW.final_work.Core.Presenter;
 import java.util.ArrayList;
 import java.util.Scanner;
-
 import OOP_HW.final_work.Core.Model.*;
-import OOP_HW.final_work.Core.ViewC.*;
+import OOP_HW.final_work.Core.View.*;
 import OOP_HW.final_work.Persons.*;
 
 public class App {

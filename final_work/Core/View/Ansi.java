@@ -1,4 +1,4 @@
-package OOP_HW.final_work.Core.ViewC;
+package OOP_HW.final_work.Core.View;
 
 public class Ansi {
     public static final String ANSI_RESET = "\u001B[0m";
